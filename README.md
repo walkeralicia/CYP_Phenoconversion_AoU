@@ -113,9 +113,9 @@ This repository contains analysis code only; no participant data are included.
 
 ## Citation
 
-If you use or adapt this code, please cite:
+If you use or adapt this code, please cite the preprint: 
+Alicia Walker, Naomi Wray, Frank Klont et al. Pharmacotherapy context shapes CYP2C19, CYP2D6 and CYP2B6 effects on antidepressant switching, 10 June 2026, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-9928103/v1]
 
- <!-- TODO: add citation once published -->
 
 ---
 
